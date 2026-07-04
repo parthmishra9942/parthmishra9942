@@ -29,6 +29,11 @@
 
 <td width="58%">
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 # ❤️ About Me
 
 ```bash
@@ -72,9 +77,9 @@ Become the best version of myself.
 
 </td>
 
-<td width="42%" align="center">
+<td width="50%" align="center" valign="middle">
 
-<img width="360" src="YOUR_NEW_GIF_LINK"/>
+<img src="./ChatGPT Image Jul 4, 2026, 11_41_19 PM.png" width="95%"/>
 
 </td>
 
@@ -82,6 +87,7 @@ Become the best version of myself.
 </table>
 
 ---
+
 
 # 🌐 CONNECT WITH ME
 
