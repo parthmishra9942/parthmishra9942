@@ -1,6 +1,20 @@
-# <div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Parth+Mishra;AI+%26+ML+Student;Competitive+Programmer;Always+Learning+Something+New"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:7A0000,100:FF0000&text=PARTH%20MISHRA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Competitive%20Programmer%20|%20Lifelong%20Learner&descAlignY=60"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Competitive+Programming+Enthusiast;Building+Projects+That+Matter;Always+Learning+Something+New"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Profile%20Views-000000?style=for-the-badge&logo=github&logoColor=red"/>
+
+<img src="https://komarev.com/ghpvc/?username=parthmishra9942&style=for-the-badge&color=red"/>
+
+</div>
+
+---
 
 ### 🚀 B.Tech CSE (AI & ML) Student • Competitive Programmer
 
@@ -10,33 +24,64 @@
 
 ---
 
-<img align="right" width="390" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR3c3VvODZpMG5vbnMwdjlidmthbm9wNWNpczVqOHhxeTYxeTZ0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+<table>
+<tr>
 
-# ❤️ ABOUT ME
+<td width="58%">
 
-```text
-┌──────────────────────────────────────────────┐
-│ 👤 Name      : Parth Mishra                  │
-│ 🎓 College   : VIT Bhopal                    │
-│ 💻 Degree    : B.Tech CSE (AI & ML)          │
-├──────────────────────────────────────────────┤
-│ PASSION                                      │
-│ • Artificial Intelligence                    │
-│ • Machine Learning                           │
-│ • Competitive Programming                    │
-│ • Open Source                                │
-├──────────────────────────────────────────────┤
-│ CURRENTLY LEARNING                           │
-│ • Data Structures & Algorithms               │
-│ • Backend Development                        │
-│ • AI Engineering                             │
-├──────────────────────────────────────────────┤
-│ GOAL                                         │
-│ Become the best version of myself.           │
-└──────────────────────────────────────────────┘
+# ❤️ About Me
+
+```bash
+$ whoami
+
+👤 Parth Mishra
+
+🎓 B.Tech CSE (AI & ML)
+
+🏫 VIT Bhopal University
+
+
+$ interests
+
+🧠 Artificial Intelligence
+
+🤖 Machine Learning
+
+💻 Competitive Programming
+
+🌐 Web Development
+
+🚀 Open Source
+
+
+$ currently_learning
+
+📚 Data Structures & Algorithms
+
+⚛️ React
+
+⚙️ Backend Development
+
+🤖 AI Engineering
+
+
+$ goal
+
+Become the best version of myself.
 ```
 
-<br clear="right"/>
+</td>
+
+<td width="42%" align="center">
+
+<img width="360" src="YOUR_NEW_GIF_LINK"/>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 # 🌐 CONNECT WITH ME
 
