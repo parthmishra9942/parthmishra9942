@@ -78,7 +78,7 @@
 
 # 🐍 CONTRIBUTION SNAKE
 
-> Enable the GitHub Action described below, then this image will appear.
+
 
 <p align="center">
 <img src="https://github.com/parthmishra9942/parthmishra9942/blob/output/github-contribution-grid-snake-dark.svg"/>
