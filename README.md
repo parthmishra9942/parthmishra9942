@@ -104,7 +104,7 @@ Become the best version of myself.
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthmishra9942&theme=redical&hide_border=true" alt="contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthmishra9942&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&area_color=7A0000&hide_border=true" alt="contribution graph"/>
 </p>
 
 ## 🐍 Contribution Snake
