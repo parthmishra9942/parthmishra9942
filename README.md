@@ -9,6 +9,7 @@
 <br><br>
 
 <a href="https://parthh.runs-on.dev"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-parthh.runs--on.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=red" alt="Portfolio"></a>
+<a href="https://ai-portfolio-beige-xi.vercel.app"><img src="https://img.shields.io/badge/⚡_Vercel_Mirror-ai--portfolio--beige--xi.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=red" alt="Vercel Mirror"></a>
 <a href="https://linkedin.com/in/parth-mishra-4b7578242"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=red" alt="LinkedIn"></a>
 <a href="https://leetcode.com/u/parth213g/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=red" alt="LeetCode"></a>
 <a href="mailto:parthmishra9942@gmail.com"><img src="https://img.shields.io/badge/Email_Me-000000?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"></a>
