@@ -124,6 +124,23 @@ Layer 0 (Dense Space)    ○ ─── ○ ─── ○ ─── ○ ───
 
 ---
 
+## 🔬 AI Systems Engineering & Research Lab
+
+> **First-Principles Implementations:** Building deep technology from the ground up to master architectural invariants, memory bandwidth bottlenecks, and high-throughput inference patterns.
+
+| Repository | Focus & Architecture | Key Technologies | Performance Highlight |
+| :--- | :--- | :--- | :--- |
+| [🧠 **nano-llm-from-scratch**](https://github.com/parthmishra9942/nano-llm-from-scratch) | Decoder-Only Transformer built from first principles in pure NumPy with custom BPE | Pure NumPy, RoPE, SwiGLU, KV-Cache | **4.2x faster** decoding via single-token incremental KV cache |
+| [⚡ **agentic-hybrid-rag**](https://github.com/parthmishra9942/agentic-hybrid-rag) | Agentic Retrieval platform combining BM25 lexical search with dense vector embeddings | Reciprocal Rank Fusion (RRF), FastAPI | **<25ms** hybrid query latency with cross-encoder re-ranking |
+| [🐝 **multi-agent-research-swarm**](https://github.com/parthmishra9942/multi-agent-research-swarm) | Hierarchical multi-agent swarm orchestrating parallel workers with verification loop | Orchestrator-Worker, Adversarial Critic | **Zero-hallucination** citation auditing and claim verification |
+| [🎙️ **voice-agent-mcp**](https://github.com/parthmishra9942/voice-agent-mcp) | Sub-second streaming conversational Voice AI powered by Anthropic's MCP protocol | Model Context Protocol, WebSocket, JSON-RPC 2.0 | **<5ms** protocol tool dispatch over duplex streams |
+| [🎯 **domain-llm-qlora**](https://github.com/parthmishra9942/domain-llm-qlora) | Parameter-Efficient Fine-Tuning (PEFT) & 4-bit NormalFloat quantization framework | NF4, QLoRA, GGUF, Ollama Serving | **96.8% VRAM reduction** with local edge deployment |
+| [🔬 **agent-eval-observability**](https://github.com/parthmishra9942/agent-eval-observability) | Agent Evaluation & Observability Harness implementing an LLM-as-a-Judge engine | OpenTelemetry, Pydantic, CI/CD Gates | **Automated CI/CD regression gates** for production agent accuracy |
+| [🔍 **multimodal-clip-search**](https://github.com/parthmishra9942/multimodal-clip-search) | Cross-modal semantic search mapping images and text into a joint metric space | OpenAI CLIP, Cosine Kernel, Vector Indexing | **<15ms** zero-shot text-to-image similarity search |
+| [⚔️ **DsaFromScratch**](https://github.com/parthmishra9942/DsaFromScratch) | 131+ curated algorithmic solutions structured by master patterns & Big-O bounds | Two Pointers, Monotonic Stack, Dynamic Programming | **131+ Solved** (59 Easy, 58 Medium, 14 Hard) |
+
+---
+
 ## ⚙️ Core Technical Arsenal
 
 <p align="center">
